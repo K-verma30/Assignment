@@ -1,0 +1,8 @@
+Employees who worked 7 consecutive days:
+John Smith Manager
+
+Employees with <10 and >1 hour between shifts:
+Jane Doe Cashier
+
+Employees who worked >14 hours in a single shift:
+Bob Johnson Cook
